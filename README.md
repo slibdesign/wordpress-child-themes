@@ -13,10 +13,8 @@ Category: [ElegantThemes](https://wpchildtheme.co.uk/category/elegantthemes-com/
 ## Example code snippet
 
 `/*
-Theme Name: WordPress Child
-
+Theme Name: WordPress Child<br>
 Template: wordpress
-
 Theme URI: https://wpchildtheme.co.uk/wordpress/
 
 Author: wpchildtheme
