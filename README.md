@@ -6,4 +6,4 @@ Download and activate a WordPress child theme from our website to safely customi
 
 [wpchildtheme.co.uk](https://wpchildtheme.co.uk)
 
-![Website preview]([image.jpg](https://web.archive.org/web/20251129142910/http://web.archive.org/screenshot/https://wpchildtheme.co.uk/))
+![Website preview]([image.jpg](https://web.archive.org/web/20251129142910/http://web.archive.org/screenshot/https://wpchildtheme.co.uk/)
