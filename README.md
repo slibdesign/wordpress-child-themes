@@ -13,14 +13,23 @@ Category: [ElegantThemes](https://wpchildtheme.co.uk/category/elegantthemes-com/
 ## Example code snippet
 
 Theme Name: WordPress Child
+
 Template: wordpress
+
 Theme URI: https://wpchildtheme.co.uk/wordpress/
+
 Author: wpchildtheme
+
 Author URI: https://wpchildtheme.co.uk
+
 Version: 1.0.1
+
 License: GPLv3
+
 License URI: https://www.gnu.org/licenses/gpl-3.0.txt
+
 Tags: wpchildtheme, child theme, wordpress-child
+
 Text Domain: wordpresschild
 
 
