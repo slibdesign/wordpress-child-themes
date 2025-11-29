@@ -4,11 +4,9 @@ A framework for WordPress theme modification
 
 Download and activate a WordPress child theme from our website to safely customise your self-hosted WordPress website and improve your WordPress website development. Our website has over [14,074](https://wpchildtheme.co.uk/?post_type=post) WordPress child themes available to download for free and they can be activated on your self hosted WordPress website in the WP Dashboard.
 
-[wpchildtheme.co.uk](https://wpchildtheme.co.uk)
+Demo: [wpchildtheme.co.uk](https://wpchildtheme.co.uk)
 
-Category: [WordPress](https://wpchildtheme.co.uk/category/wordpress-org/)
-Category: [ThemeForest](https://wpchildtheme.co.uk/category/themeforest-net/)
-Category: [ElegantThemes](https://wpchildtheme.co.uk/category/elegantthemes-com/)
+Categories: [WordPress](https://wpchildtheme.co.uk/category/wordpress-org/) [ThemeForest](https://wpchildtheme.co.uk/category/themeforest-net/) [ElegantThemes](https://wpchildtheme.co.uk/category/elegantthemes-com/)
 
 ## Example code snippet
 
