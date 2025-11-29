@@ -12,25 +12,17 @@ Category: [ElegantThemes](https://wpchildtheme.co.uk/category/elegantthemes-com/
 
 ## Example code snippet
 
-`/*
+`/*<br>
 Theme Name: WordPress Child<br>
-Template: wordpress
-Theme URI: https://wpchildtheme.co.uk/wordpress/
-
-Author: wpchildtheme
-
-Author URI: https://wpchildtheme.co.uk
-
-Version: 1.0.1
-
-License: GPLv3
-
-License URI: https://www.gnu.org/licenses/gpl-3.0.txt
-
-Tags: wpchildtheme, child theme, wordpress-child
-
-Text Domain: wordpresschild
-
+Template: wordpress<br>
+Theme URI: https://wpchildtheme.co.uk/wordpress/<br>
+Author: wpchildtheme<br>
+Author URI: https://wpchildtheme.co.uk<br>
+Version: 1.0.1<br>
+License: GPLv3<br>
+License URI: https://www.gnu.org/licenses/gpl-3.0.txt<br>
+Tags: wpchildtheme, child theme, wordpress-child<br>
+Text Domain: wordpresschild<br>
 */`
 
 ![Website preview](https://web.archive.org/web/20251129142910/http://web.archive.org/screenshot/https://wpchildtheme.co.uk/)
