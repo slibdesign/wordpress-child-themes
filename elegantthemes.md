@@ -2,7 +2,7 @@
 
 A list of child themes create for open source distribution for Elegant Themes
 
-Category: 85 [Elegant Themes](https://wpchildtheme.co.uk/category/elegantthemes-com/)
+Category: 85 [Elegant Themes](https://wpchildtheme.co.uk/category/elegantthemes-com/) child themes
 
 [Divi](https://wpchildtheme.co.uk/divi/)
 
