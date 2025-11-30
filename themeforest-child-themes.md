@@ -2,6 +2,10 @@
 
 A list of child themes for the most popular WordPress parent themes listed on themetforest.net
 
+Category: [Theme Forest](https://wpchildtheme.co.uk/category/themeforest-net/)
+
+Themes:
+
 [woordmart-child.zip](https://wpchildtheme.co.uk/woodmart/)
 
 [betheme-child.zip](https://wpchildtheme.co.uk/betheme/)
