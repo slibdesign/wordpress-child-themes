@@ -2,7 +2,7 @@
 
 A list of child themes for the most popular WordPress parent themes listed on themetforest.net
 
-Category: [Theme Forest](https://wpchildtheme.co.uk/category/themeforest-net/)
+Category: 3,879 [Theme Forest](https://wpchildtheme.co.uk/category/themeforest-net/) child themes
 
 Themes:
 
