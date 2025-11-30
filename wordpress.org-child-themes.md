@@ -2,7 +2,7 @@
 
 A list of child themes for the most popular WordPress.org parent themes
 
-Category: [WordPress.org](https://wpchildtheme.co.uk/category/wordpress-org/)
+Category:  10,110 [WordPress.org](https://wpchildtheme.co.uk/category/wordpress-org/) child themes
 
 Themes:
 
