@@ -2,6 +2,10 @@
 
 A list of child themes for the most popular WordPress.org parent themes
 
+Category: [WordPress.org](https://wpchildtheme.co.uk/category/wordpress-org/)
+
+Themes:
+
 [twenty twenty two child .zip](https://wpchildtheme.co.uk/twenty-twenty-two/)
 
 [twenty twenty one .zip](https://wpchildtheme.co.uk/twenty-twenty-one/)
